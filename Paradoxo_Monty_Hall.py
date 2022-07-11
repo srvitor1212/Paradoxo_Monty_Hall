@@ -97,7 +97,7 @@ print(  f"O problema foi apresentado no programa de televisão Let’s Make a De
 
 print("====================================================================")
 print("O jogador escolhe uma porta e mantém essa escolha até o fim do jogo")
-qtdRodadas = range(1000000)
+qtdRodadas = range(1000)
 for i in qtdRodadas:
     UmaRodada(1)
 MostraPlacar()
